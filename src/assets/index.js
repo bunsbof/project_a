@@ -1,0 +1,7 @@
+export {default as face1} from './face1.jpg'
+export {default as face2} from './face2.jpg'
+export {default as face3} from './face3.jpg'
+export {default as face4} from './face4.jpg'
+export {default as face5} from './face5.jpg'
+export {default as face6} from './face6.jpg'
+export {default as landscape1} from './landscape1.jpg'

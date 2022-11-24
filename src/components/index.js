@@ -1,0 +1,8 @@
+export {default as Contact} from './Contact'
+export {default as Contacts} from './Contacts'
+export {default as Input} from './Input'
+export {default as Message} from './Message'
+export {default as Navbar} from './Navbar'
+export {default as Search} from './Search'
+export {default as Sidebar} from './Sidebar'
+export {default as Chats} from './Chats'
